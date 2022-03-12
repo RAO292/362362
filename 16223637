@@ -1,0 +1,84 @@
+# print("1plus1 = Gwi yo mi")
+# print('1 + 1 =',2)
+# 2
+# x = float(input())
+# y = float(input())
+# print(x * y)
+# 3
+# 4
+# x = input()
+# y = input()
+# z = int(input())
+# print(z*y,x)          x 띄어쓰기
+# 5
+# a = [1 , 2]
+# a.append(int(input()))
+# print(a.sort(reverse=False))
+# 6
+# 50.80kg > F
+# 61.23kg > L
+# 72 >M
+# 88 > C
+# 88 < H
+# 7
+# A = float(input())
+# if 88.45 < A:
+#     print("Heavyweight")
+# elif 88.45 > A:
+#     print("Cruiserweight")
+# elif 72.57 > A:
+#     print("MIddleweight")
+# elif 61.23 > A:
+#     print("Lightweight")
+# else:
+#     print("Flyweight")
+# 8
+# B = 0
+# C = 0
+# while True:
+#     A = int(input())
+#     if A == 0:
+#         break
+#     elif A %3 == 0:
+#         B += 1
+#     elif A %2 == 0:
+#         C += 1
+# print("odd :",B,"even :",C)
+# 9
+# A = int(input())
+# B = 3.14
+# print(A * A * B)
+
+
+# 선생님이 하신거
+# A-1
+# print("5 Dan")
+# print("5 * = %d"%(5*2))
+
+# A-2
+# a = int(input())
+# b = int(input())
+# print("%d * %d = %d"%(a, b, a*b))
+# print("%d / %d = %f"%(a, b, a/b))
+
+# A-3
+# yard = float(input())
+# print("%d yard = %.3f"%(yard, yard*100*0.9144))
+
+# B-1
+# print("1plus = Gwi yo mi")
+# print("1 + 1 = %d"%(1+1))
+
+# B-2
+# x = float(input('x = '))
+# y = float(input('y = '))
+# print(x+y)
+
+# B-3
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# sum = a+b+c
+# avg = sum//3
+# print("sum = %d"%(sum))
+# print("avg = %d"%(avg))
